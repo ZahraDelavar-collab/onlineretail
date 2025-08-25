@@ -1,19 +1,1 @@
-# Online Retail Dashboard (Power BI)
 
-This project is an analytical dashboard built with **Power BI** based on the **Online Retail** dataset.  
-The goal of this dashboard is to analyze customers and products, and provide actionable insights for data-driven decision-making.  
-
-## 📊 Dashboard Features
-- Product sales analysis (both table and bar chart views)  
-- Customer distribution by country and total sales per country  
-- Top 10 products by sales  
-- Top 10 customers by **CLV (Customer Lifetime Value)**  
-- RFM Analysis for customer segmentation (Recency, Frequency, Monetary)  
-
-## 🚀 Technologies
-- **Power BI** for dashboard design  
-- **DAX** for analytical calculations  
-- **Online Retail Dataset** (UCI Repository)  
-
-## 📌 About CLV
-**Customer Lifetime Value (CLV)** is a metric that estimates the total monetary value a customer generates throughout their relationship with the business.  
